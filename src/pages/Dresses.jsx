@@ -1,8 +1,6 @@
 import React, { useState } from 'react'
 import {Link} from 'react-router-dom'
-import Header2 from '../components/Header2'
-import Footer from '../components/Footer'
-import Footer2 from '../components/Footer2'
+
 import { ChevronDown } from 'lucide-react'
 import { products } from '../products'
 import ProductCard2 from '../components/ProductCard2'
@@ -59,7 +57,7 @@ export default function Dresses() {
         </button>
       </div>
     </div>
-    <Footer2/>
+  
     
     </>
     

@@ -2,7 +2,6 @@ import { LocateIcon, Mail } from 'lucide-react'
 import React from 'react'
 import { CiLocationOn, CiTimer } from 'react-icons/ci'
 import { MdOutlinePhone } from 'react-icons/md'
-import Footer from '../components/Footer'
 
 export default function Contact() {
   return (
@@ -113,7 +112,7 @@ export default function Contact() {
 
 
       </div>
-      <Footer variant = 'bg-slate-100'/>
+     
     </div>
   )
 }
