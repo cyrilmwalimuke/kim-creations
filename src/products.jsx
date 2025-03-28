@@ -29,7 +29,7 @@ export const products  = [
 
 
         ],
-        price:2900,
+        price:1500,
         size:"M",
         color:"Orange",
         Description:"Turn heads with our vibrant orange crochet bikini set! Handcrafted for the perfect fit, this stylish and breathable design is your go-to for beach days and poolside lounging. Feel confident, bold, and beautiful!",
@@ -52,7 +52,7 @@ export const products  = [
 
 
         ],
-        price:1500,
+        price:2000,
         size:"M",
         color:"Red",
         Description:"Embrace effortless elegance with our handcrafted crochet ruffle dress! Soft, stylish, and beautifully detailed, it's perfect for any occasion—whether you're dressing up or keeping it casual. A must-have statement piece!",
@@ -125,13 +125,34 @@ export const products  = [
 
 
         ],
-        price:1500,
+        price:1000,
          size:"M",
         color:"Orange",
         Description:"Add a touch of elegance to your look with our handcrafted crochet ruffle hat! Soft, stylish, and beautifully detailed, it's perfect for any occasion. A must-have statement piece!",
         amount:1,
         dateAdded: "2024-03-10"
     },
+    {
+        name:'Cream Bikini Set',
+        id:6,
+        category:'Bikini Sets',
+        imgSrcs:[
+          'Cream Bikini Set.jpg',
+
+
+         
+
+
+        ],
+        price:1500,
+         size:"M",
+        color:"Pink",
+        Description:"Elegant and chic, this cream bikini set features a flattering fit with a soft, seamless design. Perfect for lounging by the pool or soaking up the sun in style",
+        amount:1,
+        dateAdded: "2024-03-10"
+    }
+
+
 
 
 
